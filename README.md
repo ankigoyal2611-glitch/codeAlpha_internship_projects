@@ -74,7 +74,7 @@ with open("portfolio.txt", "w") as file:
         file.write(f"{stock}: {qty} shares\n")
     file.write(f"Total Investment = ${total_investment}\n")
 
-#TASK 3: Task Automation
+# crate TASK 3: Task Automation
 
 import os
 import shutil
